@@ -1,4 +1,4 @@
-# auto-github-uploader (Cursor GitHub项目自动上传脚本)
+# auto-github-uploader (GitHub项目自动上传脚本)
 
 这是一个用于自动将项目上传到GitHub的脚本工具。它能够帮助用户快速完成代码的提交和推送操作，简化了GitHub项目管理流程。
 
